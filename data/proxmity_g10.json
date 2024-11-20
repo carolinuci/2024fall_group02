@@ -1,0 +1,57 @@
+{"edges": [
+    {
+        "source": "A",
+        "target": "B",
+        "directed": false,
+        "relation": "proximity_count",
+        "metadata": {
+            "weight": 328
+        }
+    },
+    {
+        "source": "A",
+        "target": "C",
+        "directed": false,
+        "relation": "proximity_count",
+        "metadata": {
+            "weight": 185
+        }
+    },
+    {
+        "source": "A",
+        "target": "D",
+        "directed": false,
+        "relation": "proximity_count",
+        "metadata": {
+            "weight": 150
+        }
+    },
+    {
+        "source": "B",
+        "target": "C",
+        "directed": false,
+        "relation": "proximity_count",
+        "metadata": {
+            "weight": 256
+        }
+    },
+    {
+        "source": "B",
+        "target": "D",
+        "directed": false,
+        "relation": "proximity_count",
+        "metadata": {
+            "weight": 318
+        }
+    },
+    {
+        "source": "C",
+        "target": "D",
+        "directed": false,
+        "relation": "proximity_count",
+        "metadata": {
+            "weight": 344
+        }
+    }
+]
+}
