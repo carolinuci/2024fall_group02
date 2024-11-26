@@ -1,0 +1,57 @@
+{"edges": [
+                {
+                    "source": "B",
+                    "target": "D",
+                    "directed": false,
+                    "relation": "shared_attention_count",
+                    "metadata": {
+                        "weight": 188
+                    }
+                },
+                {
+                    "source": "B",
+                    "target": "A",
+                    "directed": false,
+                    "relation": "shared_attention_count",
+                    "metadata": {
+                        "weight": 504
+                    }
+                },
+                {
+                    "source": "B",
+                    "target": "C",
+                    "directed": false,
+                    "relation": "shared_attention_count",
+                    "metadata": {
+                        "weight": 596
+                    }
+                },
+                {
+                    "source": "D",
+                    "target": "A",
+                    "directed": false,
+                    "relation": "shared_attention_count",
+                    "metadata": {
+                        "weight": 196
+                    }
+                },
+                {
+                    "source": "D",
+                    "target": "C",
+                    "directed": false,
+                    "relation": "shared_attention_count",
+                    "metadata": {
+                        "weight": 180
+                    }
+                },
+                {
+                    "source": "A",
+                    "target": "C",
+                    "directed": false,
+                    "relation": "shared_attention_count",
+                    "metadata": {
+                        "weight": 640
+                    }
+                }
+            ]
+        }
